@@ -2,4 +2,4 @@
 
 1. ## login with ip to another desktop
    
-      ssh @<ip>
+      ssh root@IP
